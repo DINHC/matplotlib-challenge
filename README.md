@@ -14,9 +14,15 @@ Create 3 small observation of the results from the code
 4. Created an output that shows the drug used and their mean, median, variance, standard deviation, and SEM using groupby function
 5. Created an output that shows the drug used and their mean, median, variance, standard deviation, and SEM using aggregate function
 6. Created a bar chart that looked at Mouse ID and Drug Regiment
-7. Created a pie chart showing male to female mice ratio
-8. Create code to print out quartile and median of Tumor Volume along with values below and above outlier
-9. Created a boxplot using Tumor Volume and Drug Regimen 
-10. Created a line plot using Timepoin and Tumor Volume 
-11. Created a scatter plot to shopw weight vs average tumor volume
-12. Made a code to calculate correlation coefficient and linear regression model
+![](screenshot/barchart.png)
+8. Created a pie chart showing male to female mice ratio
+![](screenshot/piechart.png)
+9. Create code to print out quartile and median of Tumor Volume along with values below and above outlier
+10. Created a boxplot using Tumor Volume and Drug Regimen 
+![](screenshot/box.png)
+11. Created a line plot using Timepoin and Tumor Volume 
+![](screenshot/line.png)
+12. Created a scatter plot to shopw weight vs average tumor volume
+![](screenshot/scatter.png)
+13. Made a code to calculate correlation coefficient and linear regression model
+![](screenshot/regression.png)
