@@ -2,6 +2,8 @@
 
 Tools: Jupyter Notebook
 
+Data is relatively messy and that is why its important to clean it up and present it in a way that is understandable. This is true in the world of business but it is also as impoortant in the world of science. Where not only correct data but the corect way of showing data will help in better understanding reasearch and help researchers get their point across. 
+
 Purpose: 
 Analyze drug and mice tumor data
 Plot the data in different ways (bar, scatter, boxplot, line)
